@@ -1,6 +1,6 @@
 <div align="center">
     <img src="resources/app_icon.png" alt="ArcaLinux Desktop Logo" width="220">
-    <h1>ArcaLinux Desktop</h1>
+    <h1>ArcaLinux</h1>
     <p>
         Aplicación de escritorio para la generación de documentos comerciales<br>
         <strong>Tickets · Facturas · Códigos QR</strong>
@@ -10,7 +10,7 @@
 <hr>
 
 <p>
-    <strong>ArcaLinux Desktop</strong> es una aplicación de escritorio desarrollada en Python,
+    <strong>ArcaLinux </strong> es una aplicación de escritorio desarrollada en Python,
     diseñada para la creación local de documentos comerciales como tickets, facturas
     y códigos QR de ARCA.
 </p>
@@ -51,7 +51,7 @@
 <h2>Automatización e integraciones</h2>
 
 <p>
-    ArcaLinux Desktop fue diseñado con un enfoque <strong>automation-friendly</strong>.
+    ArcaLinux fue diseñado con un enfoque <strong>automation-friendly</strong>.
     Puede integrarse fácilmente en flujos de trabajo existentes,
     tanto de forma manual como automatizada.
 </p>
