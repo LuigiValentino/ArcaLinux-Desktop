@@ -47,7 +47,6 @@
 </ul>
 
 <hr>
-
 <h2>Automatización e integraciones</h2>
 
 <p>
